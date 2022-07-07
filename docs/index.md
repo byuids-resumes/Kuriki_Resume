@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Aoi Kuriki's Resume
 ---
-# Brigham Young
+# Aoi Kuriki
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
