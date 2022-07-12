@@ -4,12 +4,12 @@ title: Aoi Kuriki's Resume
 ---
 # Aoi Kuriki
 subitt Chief Technology Officer and co-founder
+I'm a Computer Science student from Japan at BYU-Idaho and andicipated graduation is 2024 Spring. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">kur20005@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/A0i-Noel">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -23,12 +23,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Summary
 
-- Dedicated to study Computer Science and Finance to have both knowledge and perspectives. Applied learning to our company SubItt and worked to experience the skills. English tutoring experience help to manage and mentor coworkers. Lead person in developing side of SubItt.
+- Dedicated to study Computer Science and Finance to have both knowledge and perspectives. Applied learning to our company Subitt and worked to experience the skills. English tutoring experience help to manage and mentor coworkers. Lead person in developing side of SubItt.
 
 
 ## Related Experience
 
-### Start-up company
+### Start-up Company
 
 `October 2021 - In progress`
 __subitt__, Chief Technology Officer, co-founder
