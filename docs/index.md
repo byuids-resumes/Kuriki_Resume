@@ -21,6 +21,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.7 Major GPA
 
+## Skills
+-	HTML CSS ,JavaScript ,Python ,C# ,C++ ,React  ,Firebase ,Managing people ,Basic accounting ,Meeting Scheduling ,Training and mentoring, Progress Management with Agile development
+
+
 ## Summary
 
 - Dedicated to study Computer Science and Finance to have both knowledge and perspectives. Applied learning to our company Subitt and worked to experience the skills. English tutoring experience help to manage and mentor coworkers. Lead person in developing side of SubItt.
