@@ -8,7 +8,7 @@ I'm a Computer Science student from Japan at BYU-Idaho and andicipated graduatio
 
 <div id="webaddress">
 <a href="datascience@byui.edu">kur20005@byui.edu</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/aoi-kuriki-6aa160233/">LinkedIn</a>
 | <a href="https://github.com/A0i-Noel">GitHub</a>
 </div>
 
